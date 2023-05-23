@@ -1,7 +1,9 @@
 ---
 layout: home
+title: Leiden University Medical Center - Sequencing Analysis Support Core
 ---
 
+
 Projects:
-- [BioWDL](biowdl.github.io) ([github](github.com/biowdl))
+- [BioWDL](https://biowdl.github.io) ([github](https://github.com/biowdl))
 
